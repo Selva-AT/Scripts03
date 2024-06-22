@@ -3,9 +3,9 @@ whenever we want to do some changes in the remote repository, we can do changes 
 git push origin main, git pull origin main
 
 GitHub is a service which will host all our repositories remotely
-we can share within ht eteam or we can share the repositories global.
+we can share within the team or we can share the repositories global.
 
 1. GitHub is a hosting service for git repositories.
 2. Git is the tool, while GitHub is the service to use git.
-3. Git is a simple tool which can install on our local machine andwhich will act as a local repository.
+3. Git is a simple tool which can install on our local machine and which will act as a local repository.
 4. whereas a github is a service which acting as a remote repository, where we can store or we can have all repositories globally .
