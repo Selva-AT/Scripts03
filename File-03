@@ -1,0 +1,9 @@
+# 1.Remove value 0 and print remaining values from the List
+# Ex:
+# List=[1,0,2,0,4,6]
+# for i in List:
+#     if i==0:
+#         List.remove(i)      # or
+#         List.remove(0)
+# print(List)
+# O/P - [1, 2, 4, 6]
