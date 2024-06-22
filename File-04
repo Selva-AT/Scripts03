@@ -6,3 +6,4 @@
 #         List.remove(0)
 #         List.append(i)
 # print(List)
+# O/P - [1, 2, 4, 6, 0, 0]
