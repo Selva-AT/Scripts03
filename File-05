@@ -1,0 +1,3 @@
+Github is basically a remote repository which is a service provider where we can maintain all the repositories globally and 
+whenever we want to do some changes in the remote repository, we can do changes through git bash (by executing these comments - git clone (link), 
+git push origin main, git pull origin main
