@@ -1,0 +1,68 @@
+Github is basically a remote repository which is a service provider where we can maintain all the repositories globally and 
+whenever we want to do some changes in the remote repository, we can do changes through git bash (by executing these comments - git clone (link), 
+git push origin main, git pull origin main
+
+GitHub is a service which will host all our repositories remotely 
+we can share within ht eteam or we can share the repositories global.
+
+1. GitHub is a hosting service for git repositories.
+2. Git is the tool, while GitHub is the service to use git.
+3. Git is a simple tool which can install on our local machine andwhich will act as a local repository.
+4. whereas a github is a service which acting as a remote repository, where we can store or we can have all repositories globally .
+
+
+Step-1 Cloning the remote/global repository to local/working repository
+
+git clone https://github.com/Murugan321/Python-Sample-file.git
+
+Step-2  Switch to remote/global repository 
+
+cd Python-Sample-file
+
+Step-3  To see the file name
+
+ls 
+
+Step-4 To see the content /code /script inside the file
+
+cat myfile-1   # Here we need to use cat + file name
+
+Step -5 To modify the content/code/script 
+
+vim myfile-1  # Here we need to use cat + file name
+
+Step -6 
+
+Press Insert key -> then press ESC key -> then use this comment :wq!
+
+Step-7 To added the changes 
+
+git add .   # Here whatever changes we made that will be added to the Staging
+
+Note - In case of error then pls use this comment  git config --global user.email "selvakumarsks777@gmail.com"
+
+
+Step -8 
+
+$ git commit -m 'Updated files'   # Here 'Updated files' is a comment msg
+
+Step - 9
+
+git push origin main
+Or 
+git push origin master
+
+Then we can able to see added files into the main branch in Github 
+
+Step -10
+
+Doing some modify in main branch then commit 
+
+After that we need to use git pull comment  - git pull origin main 
+
+After that we can see the changes will reflect in local/working repository.
+
+use this comment - cat + file name to see in local/working respository in Git bash
+
+
+https://github.com/Selva-AT/Scripts03.git
