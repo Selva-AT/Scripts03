@@ -1,0 +1,8 @@
+# 2. Move the value 0 to the end of the list
+# Ex:
+# List=[1,0,2,0,4,6]
+# for i in List:
+#     if i==0:
+#         List.remove(0)
+#         List.append(i)
+# print(List)
